@@ -8,12 +8,12 @@ Want to stay informed when Microsoft makes updates to the Office 365 APIs? What 
 
 Courses
 =======
-- [Office 365 APIs: Overview, Authentication and the Discovery Service](courses/ps-o365api-core.md)
+- [Office 365 APIs: Overview, Authentication and the Discovery Service](courses/ps-o365api-core.md) | [changelog](/changes/ps-o365api-core.md)
 - Office 365 APIs: Contacts *(currently authoring)*
 - Office 365 APIs: Calendar *(planned)*
 - Office 365 APIs: Mail *(planned)*
 - Office 365 APIs: Files *(planned)*
 
-Recent Changes
+Recent Changes (all courses)
 --------------
-- **YYYY-MM-DD**: Course [Office 365 APIs: Overview, Authentication and the Discovery Service](courses/ps-o365api-core.md) published
+- **February ##, 2015**: Course [Office 365 APIs: Overview, Authentication and the Discovery Service](courses/ps-o365api-core.md) published
