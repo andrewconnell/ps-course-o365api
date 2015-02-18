@@ -37,3 +37,5 @@ The following topics are covered in this course:
 - Office 365 API - Discovery Service
   - REST API
   - Native .NET SDK
+
+[![Analytics](https://ga-beacon.appspot.com/UA-59891462-1/ps-course-o365api/courses/ps-o365api-core)](https://github.com/igrigorik/ga-beacon)

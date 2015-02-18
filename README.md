@@ -17,3 +17,5 @@ Courses
 Recent Changes (all courses)
 --------------
 - **February ##, 2015**: Course [Office 365 APIs: Overview, Authentication and the Discovery Service](courses/ps-o365api-core.md) published
+
+[![Analytics](https://ga-beacon.appspot.com/UA-59891462-1/ps-course-o365api/readme)](https://github.com/igrigorik/ga-beacon)
