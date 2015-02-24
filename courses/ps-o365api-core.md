@@ -3,8 +3,8 @@ Office 365 APIs: Overview, Authentication and the Discovery Service
 > - [Watch the course on Pluralsight](http://pluralsight.com/courses/office-365-api-overview-authentication-discovery-service)
 > - [Introduction video to the course (4:41)](http://youtu.be/bnaOVZhXrZM)
 > - [More details on the course (my article)](http://www.andrewconnell.com/office-365-apis-overview-authentication-and-the-discovery-service)
-> - Duration: ## minutes
-> - Release Date: February ##, 2015
+> - Duration: 181 minutes
+> - Release Date: February 24, 2015
 > - Last Update: n/a
 > - Changelog: [see all changes to the course](../changes/ps-o365api-core.md)
 
